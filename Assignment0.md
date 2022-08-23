@@ -30,6 +30,7 @@ The main goal for this assignment is to learn how to generate Unit Tests.
 
 - Your Unit Tests account for 30% of the overall grade for this assignment.
 - There must be at least 8 UTs for this assignment.
+- Information on how to write Unit Tests can be found in the documentation here: https://docs.python.org/3/library/unittest.html
 - The percentage of Unit Tests that are both present and passing will determine your grade for this section.
 - To check if your tests pass, run `make test`.
 - Every UT that does not pass is an automatic -1, so if you write 12 tests and 4 do not pass, it will count as 4/8 instead of 8/8 even though 8 tests pass.
