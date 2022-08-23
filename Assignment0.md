@@ -14,11 +14,6 @@ The main goal for this assignment is to learn how to generate Unit Tests.
 - This assignment is worth 25pts.
 - In future assignments, your code will be tested with our own Unit Tests, alongside the metrics listed below.
 
-### Submission
-
-- Your Assignment folder should be named following the format FistInitialLastname_Assignment (ex. JWheelock_Assignment0)
-- This folder should be zipped and submitted as a zip file. 
-
 ### Joining Slack
 
 - Joining slack is worth 20% of the grade for this assignment.
