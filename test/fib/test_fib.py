@@ -18,8 +18,10 @@ class FibTest(unittest.TestCase):
             logging.basicConfig(stream=sys.stderr, level=logging.DEBUG)
             self.log = logging.getLogger("FibTestLog")
 
-    def test_class(self):
-        pass
+    def test_example_class(self):
+        """Example test of the fibonacci class."""
+        self.assertEqual(self.fib.get_fib(1), 1)
 
-    def test_function(self):
-        pass
+    def test_example_function(self):
+        """Example test of the fibonacci function."""
+        self.assertEqual(fib.calculate_fib(1), 1)
