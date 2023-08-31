@@ -15,7 +15,6 @@ help:
 	@echo "style    - check style with pylint"
 	@echo "test     - run all unit tests"
 	@echo "coverage - check code coverage of unit tests"
-	@echo "runner   - generate graphs for specific algorithms"
 
 clean:
 	rm -rf */__pycache__ # remove compiled python directory
