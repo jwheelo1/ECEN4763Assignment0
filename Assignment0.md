@@ -16,19 +16,20 @@ The main goal for this assignment is to learn how to generate Unit Tests.
 
 ### Joining Slack
 
-- Joining slack is worth 20% of the grade for this assignment.
-- You will need to create a profile on the class Slack that has the same name as the name on this submission.
-- This section is all or nothing.
+- Joining slack is worth 20% of the grade for this assignment (5 points).
+- Change your profile name, capitalizing how you want to be referenced (1 point) (e.g. JON Haines, JIMMY Wheelock)
+- Please update your profile picture to a photo of yourself. (2 points)
+- Send Jimmy a DM letting him know that you have arrived. (1 point)
 
 ### Lint
 
 - You will receive an all or nothing for lint for 20% of the overall grade.
-- If you run `make style` and fix all errors you will get the 20%.
+- If you run `make style` and fix all errors you will get the 20% (5 points).
 - If there are any style issues you automatically receive a 0 for this section
 
 ### Student UTs
 
-- Your Unit Tests account for 30% of the overall grade for this assignment.
+- Your Unit Tests account for 30% of the overall grade for this assignment (7.5 points).
 - There must be at least 8 UTs for this assignment.
 - Information on how to write Unit Tests can be found in the documentation here: https://docs.python.org/3/library/unittest.html
 - The percentage of Unit Tests that are both present and passing will determine your grade for this section.
@@ -38,6 +39,6 @@ The main goal for this assignment is to learn how to generate Unit Tests.
 
 ### Code Coverage
 
-- Code Coverage (the percentage of code covered by your Unit Tests) accounts for 30% of the overall grade.
+- Code Coverage (the percentage of code covered by your Unit Tests) accounts for 30% of the overall grade (7.5 points).
 - After all of your UTs are run, we will be checking the code coverage.
 - The percentage of code coverage is found by running `make coverage`.
